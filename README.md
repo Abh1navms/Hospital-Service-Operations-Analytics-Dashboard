@@ -7,14 +7,6 @@ This project is a comprehensive **hospital operations and capacity analysis dash
 
 The dashboard is designed from a **business + healthcare operations perspective**, focusing on **capacity planning, service bottlenecks, staff efficiency, and patient experience**.
 
-It is suitable for:
-
-* Hospital administrators
-* Operations managers
-* Healthcare analysts
-* Data analyst portfolio projects
-
----
 
 ## 🎯 Business Objectives
 
